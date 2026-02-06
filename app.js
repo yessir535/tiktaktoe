@@ -1,9 +1,7 @@
-var licznik = 1;
+var licznik = 0;
 
 function generuj(id) {
-  if (id == "jeden") {
-    document.getElementById("jeden").innerHTML = licznik;
-  }
+
     if(id=="jeden"){
         document.getElementById("jeden").innerHTML = licznik
         document.getElementById("jeden").style.backgroundColor = "red"
