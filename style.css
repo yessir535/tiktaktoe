@@ -1,135 +1,17 @@
-.kom {
+.cell {
   width: 200px;
   height: 200px;
   border: 1px solid black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 48px;
 }
 
 .row {
   display: flex;
-}
-
-#jeden {
-  font-size: 50px;
-  display: flex;
   justify-content: center;
   align-items: center;
-}
-
-#dwa {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#trzy {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#cztery {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#piec {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#szesc {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#siedem {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#osiem {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#dziewiec {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#jeden {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#dwa {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#trzy {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#cztery {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#piec {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#szesc {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#siedem {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#osiem {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#dziewiec {
-  font-size: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background-color: white;
 }
